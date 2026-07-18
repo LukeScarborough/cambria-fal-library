@@ -1,0 +1,1 @@
+{"generatedAt":"2026-07-17T00:00:00Z","minNxgenVersion":"0.7.0-alpha.1","requiredFeatures":{"collections":true,"manifest":"v2","portTypes":["image","text","video"],"transportKinds":["queue"],"widgets":["json","number","select"]},"schemaVersion":1}
