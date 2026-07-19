@@ -1,1 +1,1 @@
-{"generatedAt":"2026-07-17T00:00:00Z","minNxgenVersion":"0.7.0-alpha.1","requiredFeatures":{"collections":true,"manifest":"v2","portTypes":["image","text","video"],"transportKinds":["queue"],"widgets":["json","number","select"]},"schemaVersion":1}
+{"generatedAt":"2026-07-17T22:17:39.186199Z","minNxgenVersion":"0.7.0-alpha.1","requiredFeatures":{"collections":true,"manifest":"v2","portTypes":["audio","file","image","json","model3d","number","text","video"],"transportKinds":["queue"],"widgets":["json","number","seed","select","text","textarea","toggle"]},"schemaVersion":1}
