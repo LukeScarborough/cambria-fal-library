@@ -13,8 +13,8 @@ https://github.com/LukeScarborough/cambria-fal-library
 Review the publisher identity before trusting the library.
 
 - Channel: `preview`
-- Version: `0.1.0-alpha.1`
-- Definitions: `3`
+- Version: `0.1.0-beta.1`
+- Definitions: `1,272`
 - Key ID: `cambria-fal-5742f8c24491ac2b`
 - Fingerprint: `5742f8c24491ac2bea98e34f6ed5ddf9a2ac81275e834894c9727cc05808892d`
 
